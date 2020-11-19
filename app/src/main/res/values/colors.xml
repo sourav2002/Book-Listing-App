@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryDark">#C34339</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColorAuthor">#606060</color>
+    <color name="textColorBookTitle">#C51B0F</color>
+    <color name="textColorCountryCode">#000000</color>
+    <color name="textColorPrice">#ba0b0b</color>
+</resources>
+<!--    3F51B5-->
