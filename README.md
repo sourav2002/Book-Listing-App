@@ -5,9 +5,6 @@ Book Listing - Project Specification
 
 ----
 
-# YouTube video-clips with short presentations #
-[![Watch the video](http://i.imgur.com/yMsgLN0l.png)](https://youtu.be/bX1lGJOv7Ac)
-
 #Layout
 ------------
 
